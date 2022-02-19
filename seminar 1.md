@@ -16,4 +16,9 @@
 
 ## 2 seminar
 
+*git branch* - отображает все существующие выетки
+
+*git branch name* - создает ветку с именем "name"
+
+
 ## 3 seminar
