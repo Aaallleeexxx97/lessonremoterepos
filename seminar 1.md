@@ -20,5 +20,8 @@
 
 *git branch name* - создает ветку с именем "name"
 
+*git merge name* - сливает текущую ветку с веткой "name"
+
+*git branch -d name* - удаляет ветку "name"
 
 ## 3 seminar
