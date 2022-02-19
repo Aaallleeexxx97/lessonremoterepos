@@ -25,3 +25,5 @@
 *git branch -d name* - удаляет ветку "name"
 
 ## 3 seminar
+
+здарова мир
